@@ -9,8 +9,9 @@ This is just a small helper utility that bulk shrinks your gif files. It does 2 
 
 It assumes you have both `imagemagick` and `gifsicle` installed
 
-````
-
+```
+brew install imagemagick
+brew install gifsicle
 ```
 
 ## How to use
