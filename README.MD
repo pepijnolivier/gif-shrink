@@ -1,4 +1,4 @@
-# Shrink
+# Gif-Shrink
 
 This is just a small helper utility that bulk shrinks gif files. It does 2 things:
 
